@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Ticari_Otomasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23B10576-E4AD-4A9F-A216-F16C0767A5BE}|Ticari_Otomasyon\\Ticari_Otomasyon.csproj|c:\\users\\lenovo\\source\\repos\\ticari_otomasyon\\ticari_otomasyon\\sqlbaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B10576-E4AD-4A9F-A216-F16C0767A5BE}|Ticari_Otomasyon\\Ticari_Otomasyon.csproj|solutionrelative:ticari_otomasyon\\sqlbaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B10576-E4AD-4A9F-A216-F16C0767A5BE}|Ticari_Otomasyon\\Ticari_Otomasyon.csproj|C:\\Users\\LENOVO\\source\\repos\\Ticari_Otomasyon\\ticari_otomasyon\\frmfaturalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23B10576-E4AD-4A9F-A216-F16C0767A5BE}|Ticari_Otomasyon\\Ticari_Otomasyon.csproj|solutionrelative:ticari_otomasyon\\frmfaturalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B10576-E4AD-4A9F-A216-F16C0767A5BE}|Ticari_Otomasyon\\Ticari_Otomasyon.csproj|C:\\Users\\LENOVO\\source\\repos\\Ticari_Otomasyon\\ticari_otomasyon\\frmfaturalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B10576-E4AD-4A9F-A216-F16C0767A5BE}|Ticari_Otomasyon\\Ticari_Otomasyon.csproj|solutionrelative:ticari_otomasyon\\frmfaturalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B10576-E4AD-4A9F-A216-F16C0767A5BE}|Ticari_Otomasyon\\Ticari_Otomasyon.csproj|C:\\Users\\LENOVO\\source\\repos\\Ticari_Otomasyon\\ticari_otomasyon\\frmanamod\u00FCl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B10576-E4AD-4A9F-A216-F16C0767A5BE}|Ticari_Otomasyon\\Ticari_Otomasyon.csproj|solutionrelative:ticari_otomasyon\\frmanamod\u00FCl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B10576-E4AD-4A9F-A216-F16C0767A5BE}|Ticari_Otomasyon\\Ticari_Otomasyon.csproj|C:\\Users\\LENOVO\\source\\repos\\Ticari_Otomasyon\\ticari_otomasyon\\frmanamod\u00FCl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23B10576-E4AD-4A9F-A216-F16C0767A5BE}|Ticari_Otomasyon\\Ticari_Otomasyon.csproj|solutionrelative:ticari_otomasyon\\frmanamod\u00FCl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sqlbaglantisi.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Ticari_Otomasyon\\Ticari_Otomasyon\\sqlbaglantisi.cs",
+              "RelativeDocumentMoniker": "Ticari_Otomasyon\\sqlbaglantisi.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Ticari_Otomasyon\\Ticari_Otomasyon\\sqlbaglantisi.cs",
+              "RelativeToolTip": "Ticari_Otomasyon\\sqlbaglantisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-25T11:38:56.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmFaturalar.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Ticari_Otomasyon\\Ticari_Otomasyon\\frmFaturalar.cs",
+              "RelativeDocumentMoniker": "Ticari_Otomasyon\\frmFaturalar.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Ticari_Otomasyon\\Ticari_Otomasyon\\frmFaturalar.cs",
+              "RelativeToolTip": "Ticari_Otomasyon\\frmFaturalar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-25T11:37:08.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmFaturalar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Ticari_Otomasyon\\Ticari_Otomasyon\\frmFaturalar.cs",
+              "RelativeDocumentMoniker": "Ticari_Otomasyon\\frmFaturalar.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Ticari_Otomasyon\\Ticari_Otomasyon\\frmFaturalar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ticari_Otomasyon\\frmFaturalar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-08-02T12:22:00.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAnaMod\u00FCl.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Ticari_Otomasyon\\Ticari_Otomasyon\\frmAnaMod\u00FCl.cs",
+              "RelativeDocumentMoniker": "Ticari_Otomasyon\\frmAnaMod\u00FCl.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Ticari_Otomasyon\\Ticari_Otomasyon\\frmAnaMod\u00FCl.cs",
+              "RelativeToolTip": "Ticari_Otomasyon\\frmAnaMod\u00FCl.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-08-02T12:21:27.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAnaMod\u00FCl.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Ticari_Otomasyon\\Ticari_Otomasyon\\frmAnaMod\u00FCl.cs",
+              "RelativeDocumentMoniker": "Ticari_Otomasyon\\frmAnaMod\u00FCl.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Ticari_Otomasyon\\Ticari_Otomasyon\\frmAnaMod\u00FCl.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ticari_Otomasyon\\frmAnaMod\u00FCl.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-08-02T12:16:59.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

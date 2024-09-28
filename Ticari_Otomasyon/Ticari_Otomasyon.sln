@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticari_Otomasyon", "Ticari_Otomasyon\Ticari_Otomasyon.csproj", "{23B10576-E4AD-4A9F-A216-F16C0767A5BE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ERKBA ticaret", "..\..\..\..\..\erkba ticaret\ERKBA ticaret\ERKBA ticaret.vdproj", "{DF2C96F0-E9E5-476D-9A82-9DD03F866F9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B10576-E4AD-4A9F-A216-F16C0767A5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B10576-E4AD-4A9F-A216-F16C0767A5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B10576-E4AD-4A9F-A216-F16C0767A5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B10576-E4AD-4A9F-A216-F16C0767A5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF2C96F0-E9E5-476D-9A82-9DD03F866F9E}.Debug|Any CPU.ActiveCfg = Debug
+		{DF2C96F0-E9E5-476D-9A82-9DD03F866F9E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0453C50-D0A9-45B7-9167-84BEA8DA87A0}
+	EndGlobalSection
+EndGlobal
